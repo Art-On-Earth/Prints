@@ -16,7 +16,7 @@ These are the [skills installer agent mappings](https://github.com/vercel-labs/s
 Requires Node.js 22.20+ for the tested skills 1.7.0 installer. From your project directory:
 
 ```sh
-npx skills@1.7.0 add https://github.com/Art-On-Earth/s --skill aoe-print
+npx skills@1.7.0 add https://github.com/Art-On-Earth/Prints --skill aoe-print
 ```
 
 Choose your agent interactively, or add `--agent claude-code`, `--agent codex`, `--agent cursor`, or `--agent gemini-cli`. The installer handles placement; do not copy only SKILL.md and omit the references. Restart or reload your agent if necessary and explicitly ask it to use aoe-print.

@@ -7,7 +7,7 @@ The skill asks what should attract, identify, explain, and enable action, then m
 ## Install
 
 ```sh
-npx skills add https://github.com/Art-On-Earth/s --skill aoe-print
+npx skills add https://github.com/Art-On-Earth/Prints --skill aoe-print
 ```
 
 Choose your agent when prompted. Codex, Claude Code, Cursor, and Gemini CLI installation targets have been smoke-tested with skills 1.7.0 (requires Node.js 22.20+). All 15 skill files, including references, were copied intact. This verifies installation, not design performance inside each agent. See [compatibility and maintenance](docs/compatibility.md).
