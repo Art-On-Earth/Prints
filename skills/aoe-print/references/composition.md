@@ -18,6 +18,8 @@ A rigid text grid can contrast with an irregular image (AOE-P01). A quiet masthe
 Use negative space intentionally around a focal element or between information groups. Density is not automatically a defect. Ask whether it supports discovery, atmosphere, or close reading, and whether the brief permits the resulting effort.
 
 ## Type and language
+For type selection, line shaping, hierarchy specification, and critique, read [typography.md](typography.md).
+
 Choose role contrast through some combination of scale, weight, width, case, placement, or material—not all simultaneously by default. Tune tracking and line breaks against the actual words. Do not stretch a typeface unintentionally. Confirm fonts are available and appropriately licensed before depending on them. Preserve the language's writing conventions; do not copy vertical Japanese text as an ornamental pattern into unrelated work.
 
 ## Series

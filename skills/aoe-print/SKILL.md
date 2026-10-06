@@ -17,7 +17,9 @@ Never infer physical dimensions or a printing process from a web preview's pixel
 
 ## Read only what the task needs
 
+- Type selection, hierarchy, line breaks, spacing, or typographic critique: [typography.md](references/typography.md). Compare the three [typography studies](references/typography-studies.md) when selecting a reading structure.
 - Posters, flyers, covers, or a coordinated campaign: [composition.md](references/composition.md).
+- Illustration character, grain, paper texture, or ink treatments: [illustration-and-surface.md](references/illustration-and-surface.md).
 - Multi-page work, grids, sequencing, or editorial typography: [editorial.md](references/editorial.md).
 - Visual references from AOE: [aoe-observations.md](references/aoe-observations.md). These are four inspected examples, not a complete analysis of the collection.
 - Dimensions, bleed, color, images, export, or handoff: [production.md](references/production.md).
@@ -34,7 +36,7 @@ When a prompt specifies `object-led`, read [object-led.md](references/object-led
 1. Write a one-sentence communication objective. Separate mandatory information from expressive material. Preserve exact dates, names, prices, and supplied language; do not invent event details to fill space.
 2. Choose the organizing relationship: for example, text over image, image-led field with quiet metadata, dense information grid, or a repeated system with a variable visual layer. Explain why it fits this job. Avoid treating these as an exhaustive menu.
 3. For a new unresolved brief, present three short, genuinely distinct concepts using concepts.md, recommend one with a reason, then let the designer select before building. Color or font swaps are not distinct concepts. If a direction is already chosen, or the user explicitly delegates selection, develop it directly. Do not restart concept selection for a critique or a narrow revision.
-4. Specify the attention order before rendering: dominant element, title, supporting copy, and metadata. Assign relative scale, weight, occupied area, and spacing to each role; “small supporting text” alone is not a sufficient rendering instruction. Use actual copy early. Read the hierarchy checks in composition.md and, when using a reference, preserve its relevant scale relationships rather than merely its objects or palette.
+4. Specify the attention order before rendering: dominant element, title, supporting copy, and metadata. Assign relative scale, weight, occupied area, and spacing to each role; “small supporting text” alone is not a sufficient rendering instruction. Use actual copy early. Read typography.md and the hierarchy checks in composition.md and, when using a reference, preserve its relevant scale relationships rather than merely its objects or palette.
 5. Work at the intended physical proportion. Follow figma-handoff.md for editable delivery. Verify the available tools before promising native Figma layers. Keep important text as real typeset text; generate imagery separately from exact copy. A flattened image in a Figma frame is not an editable design.
 6. Inspect the artifact at thumbnail scale, intended reading scale, and detail scale. Compare the actual attention order with the intended one: supporting text must not become another headline unless the brief deliberately requires it. Correct hierarchy failures before presenting the result as successful; verify supporting text remains readable at its intended scale. Follow the specific route's checks.
 

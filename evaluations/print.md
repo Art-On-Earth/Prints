@@ -27,3 +27,13 @@ Rate brief adherence, communication hierarchy, originality, evidence honesty, an
 10. **Avoid style overfitting:** “Design a restrained memorial lecture poster. No humor or distressed imagery.” Supply exact copy. Review whether the skill preserves appropriate tone despite the playful verbal-visual reference.
 
 For concept cases, judge the concepts before selecting one for execution. Record selection explicitly so baselines receive equivalent direction. Rate conceptual specificity, hierarchy, editability, and tone fit separately. New cases are prepared, not run; documentation changes alone do not establish improvement.
+
+## Typography regression set — prepared, not run
+
+Use the same exact copy across three context variations: “Open Draft; A writing workshop; 21 November; 14:00–17:00; Room 4; Bring a page you want to rethink.” Supply permitted imagery if needed.
+
+- **Quiet image-led handbill:** intended for close reading. Does the image lead while the text forms a readable, internally differentiated cluster?
+- **Dense expressive event poster:** intended to attract from a distance, then convey details closer up. Is the event title identifiable, and can readers locate date/venue without scanning every decorative element? Do not require the quiet handbill's scale relationships.
+- **Narrow type-led programme cover:** no hero image. Can grouping and alignment create sequence without making every phrase a different size or arbitrarily stepping every line?
+
+After selecting and rendering concepts, ask a reviewer who has not read the rationale what they notice first and where they find the event details. Record results and specific revisions. Verify exact copy and real text layers. Reject unintended unreadable metadata, but do not reject density or unusual alignment solely for differing from a template. Compare baseline outputs under equivalent conditions. No pass or improvement claim until artifacts have been inspected.

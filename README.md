@@ -15,7 +15,8 @@ Example: “Use the aoe-print skill to develop an A3 exhibition poster. Here is 
 ## What's included
 
 - A concise [skill entrypoint](skills/aoe-print/SKILL.md).
-- Focused composition, editorial, concept-selection, and editable-delivery guidance.
+- Focused typography, composition, editorial, concept-selection, illustration, grain, and editable-delivery guidance.
+- Three additional typography studies and documented designer feedback from Open Draft and After Hours pilots.
 - Two provisional user-supplied reference studies: object-led and verbal-visual, with attribution still unresolved.
 - Four attributed observations from graphics inspected in AOE's Print collection.
 - An evidence policy separating visible facts, creator statements, interpretation, and technical requirements.
