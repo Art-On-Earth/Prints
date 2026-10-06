@@ -19,3 +19,9 @@ Next revision criteria: test one illustration for expressive character before mu
 The illustration was rebuilt using image generation as a separate text-free raster asset: overlapping chairs, drawn contours, dry-brush grain, guitar, food, and scarf. The designer called the illustration “much better” before seeing the complete poster. This approves the illustration direction only, not the typography or finished layout.
 
 The revised SVG places that asset beneath a DIN Condensed title and one grouped event-description block, with attendance details in a contrasting footer. DIN Condensed, Rockwell, and Futura title specimens were rendered locally before choosing the condensed treatment. Text remains SVG text; illustration is raster and its grain is baked into that asset, not independently adjustable. Figma import, font substitution, print production, and full-poster acceptance remain untested.
+
+## Shared-field correction
+The designer rejected the hard footer background as unnecessary encapsulation of limited poster space and asked that all choices follow a creative vision. Removed the solid attendance band and set the details in dark ink on the shared paper field. This removes the internal box; it does not establish that the illustration boundary or overall composition is fully resolved. Avoid unnecessary panels is a contextual design preference, not a universal prohibition against contrasting fields.
+
+## Asset-shape correction
+The designer identified the square illustration brief as the source of the rectangular image boundary. The assistant had generated a square asset before resolving its placement in the portrait poster. Future revisions must specify composition-dependent asset proportions and reserved type zones, or an appropriate compositable subject. Merely removing the footer band did not fix this underlying planning error. No replacement asset has been generated for this correction yet.

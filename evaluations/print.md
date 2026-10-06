@@ -37,3 +37,12 @@ Use the same exact copy across three context variations: “Open Draft; A writin
 - **Narrow type-led programme cover:** no hero image. Can grouping and alignment create sequence without making every phrase a different size or arbitrarily stepping every line?
 
 After selecting and rendering concepts, ask a reviewer who has not read the rationale what they notice first and where they find the event details. Record results and specific revisions. Verify exact copy and real text layers. Reject unintended unreadable metadata, but do not reject density or unusual alignment solely for differing from a template. Compare baseline outputs under equivalent conditions. No pass or improvement claim until artifacts have been inspected.
+
+## Composition transfer checks — prepared, not run
+
+- Given a chosen concept where type and imagery are separate, check whether critique evaluates alignment, scale, shared field, and meaning rather than demanding overlap by default.
+- Given a surface-integrated concept and a long mandatory title, verify the agent tests real copy against usable surface area before generating the asset; check editable text and final readability.
+- Given an image constructed from repeated words, distinguish expendable motif units from exact required event information. Verify the silhouette works at thumbnail scale and mandatory copy is preserved outside illegible texture when needed.
+- Give a reference screenshot with viewer chrome. Verify it does not become a rounded poster frame, drop shadow, or copied UI control in the result.
+
+Use the same brief across baseline and skill conditions; compare communication and originality, not similarity to these three source designs. No new artwork or behavioral test was executed as part of documenting these studies.

@@ -22,7 +22,7 @@ Test available fonts with the real headline, longest words, numerals, punctuatio
 
 Assign each family a job. Add a second family when its contrast contributes meaning or usability; do not pair fonts simply because a template expects a serif and sans. T01's change of register is purposeful; T03 demonstrates how much one forceful voice can do.
 
-Keep display eccentricities away from essential details when they impair reading. Confirm actual font availability before building the final editable layout. If substituting, recheck line breaks and composition rather than assuming equal point sizes produce equal results.
+Keep display eccentricities away from essential details when they impair reading. Do not silently accept a fallback font as the final art direction. Confirm actual font availability before building the final editable layout. If substituting, recheck line breaks and composition rather than assuming equal point sizes produce equal results.
 
 ## Specify emphasis, not just font size
 
@@ -74,18 +74,30 @@ Create hierarchy within the supporting layer, not just between that layer and th
 
 Compare apparent emphasis after rendering. A larger regular invitation can overpower a smaller bold identifier; weight, size, and occupied area work together. Avoid making every essential line bold, inventing a different weight for every line, or using faint gray to force hierarchy. Test actual supported font weights rather than relying on nominal values that may render identically. Ask whether someone can identify the event and find when/where without reading every line sequentially.
 
-### Accepted lesson from Open Draft
-
-The designer judged the revised supporting hierarchy better on 2026-10-05: semibold event identification and date became useful scan anchors, while the invitation, time, and room retained regular weight within their respective groups. Carry forward the method—assign purpose, choose anchors, differentiate weights, group dependent information, then inspect—not the exact font sizes or an assumption that every date should be bold. This is qualitative acceptance of one revision, not evidence of universal effectiveness.
-
 ## Establish a message hierarchy before assigning weights
 
 Bold labels cannot resolve overlapping messages. In the rejected After Hours pilot, the title, “A neighborhood music festival,” and “Live music, food & dancing” became three disconnected announcements. Before styling, ask whether secondary phrases explain distinct things or repeat the same proposition. Group an identifying line and its supporting activity list into one reading unit when appropriate; change or consolidate wording only within the user's copy-editing authorization.
 
 For that event, the intended structure is title → one event-description group → practical attendance group. Date and place need to be retrievable, not promoted into a competing headline. Do not mechanically copy Open Draft's accepted weight assignments into another poster. Judge the whole message, not whether every role has a different nominal weight.
 
-## Select fonts with the actual words
+## Typography belongs to the material and focal system
 
-Do not silently accept a fallback font as the final art direction. Compare a small number of materially different available faces in the actual title and supporting copy before committing. Evaluate specific qualities: width and fit, weight distribution, terminals, counters, rhythm, numerals, and the relationship to illustration. “Serif for character, sans for details” is not a sufficient rationale. Tilting ordinary type alone does not make it playful.
+In Common Ground, the designer accepted the image direction but rejected a broad heavy title and the disconnect between textured paper/illustration and perfectly clean text. Decide whether the action, image, or title should attract first before choosing title weight and scale. Do not maximize both by default. A somewhat smaller illustration can create breathing space while remaining the focal subject; judge actual contrast, silhouette, and placement after resizing.
 
-Keep the comparison focused on the problem instead of offering an exhaustive font menu. If a suitable face cannot be used, state the constraint and treat substitution as a design decision. Verify font availability and licensing, then inspect the actual rendered face. The After Hours rejection establishes that its font choices failed this brief; it does not ban familiar families or serif titles universally.
+When the material treatment matters, consider restrained ink variation or edge behavior on display type as part of the same vision. Preserve letter recognition, counters, thin strokes, and small text. Keep a live text master and make the effect independently adjustable. Never use roughness to disguise unsuitable font selection. Inspect at intended reading scale and verify destination support for effects.
+
+The designer associates earth/nature with serif possibilities and prefers tall, less squat serif proportions when using them. Treat this as an editorial preference to evaluate, not a universal nature-to-serif rule or a request to use serif for every plant brief. Consider cultural associations, audience, actual letterforms, and image character. Use genuine family widths/styles or deliberate display transformations; assess the resulting letterforms rather than treating tall proportions alone as sufficient.
+
+## Statement titles need deliberate color and alignment
+
+For a large isolated statement title, consider the open space part of its emphasis. In Common Ground, the designer rejected the muted title color and arbitrary stepped alignment. Prefer a clear shared left or right margin, or a deliberate centered axis, for this kind of title. “Align to an edge” means a consistent compositional margin, not placing letters against the trim. Align related supporting information where that strengthens the structure.
+
+A statement title may need a more expressive color than a palette's default quiet ink. Select it in relation to the concept and image, then reassess focal balance and legibility; stronger color can change what attracts first. Do not prescribe saturated color for every title or erase intentional stepped arrangements such as T03. Depart from a common edge only for an explicit compositional reason, not as an automatic decorative offset.
+
+## Research type through real uses
+For unresolved font character, consult [Fonts In Use studies](fonts-in-use.md). Compare actual title words in their composition rather than choosing from a generic serif/sans label. Preserve attribution and distinguish available fonts from inspiration.
+
+## Shape display typography deliberately
+AOE permits expressive distortion of display lettering: height, width, slant, tracking, pair spacing, and weight are design variables, not untouchable defaults. First use native width/weight/optical-size axes when appropriate; intentional nonuniform scaling is also valid when the resulting form supports the concept. Do not confuse this with accidental stretching to fit a box. Preserve editable text and an unmodified source.
+
+Judge actual words after manipulation: counter openness, repeated-letter rhythm, stroke balance, serif joins, interline gaps, and optical edge alignment. Increasing height also changes horizontal/vertical stroke relationships; tighter tracking can make repeated m/n forms congeal. Fix pairs or reduce the transformation when recognition breaks. Keep essential small copy undistorted unless the brief supplies a clear reason. Test at thumbnail and reading scale. Do not claim a reference was mechanically stretched merely because it is condensed; it may be a deliberately drawn face.

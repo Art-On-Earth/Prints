@@ -1,13 +1,23 @@
 ---
 name: aoe-print
-description: Design, art-direct, or critique posters, publications, and other flat print layouts using a content-led composition process and attributed AOE references. Use for print briefs, typography, page systems, and production handoff; distinguish visual concepts from verified press-ready files.
+description: Create, critique, or refine posters for designers using AI. Develop three concepts, establish hierarchy, shape typography, compose imagery, and prepare editable artwork using attributed references. Use for poster briefs and revisions; distinguish visual concepts from verified print-ready files.
+metadata:
+  version: "1.0.0"
 ---
 
-# AOE Print
+# AOE Posters v1
 
-Create original printed work with a clear visual argument: what should be noticed, read, and remembered, and how the physical format supports it. Preserve the user's brief, content, and intentional visual choices. An AOE selection supplies an example to reason about, not a house style to impose.
+Create original posters with a clear visual argument: what should be noticed, read, and remembered, and how the physical format supports it. Preserve the user's brief, content, and intentional visual choices. An AOE selection supplies an example to reason about, not a house style to impose.
 
 Built for designers using AI. Combine an intelligible concept with typography, composition, and material judgment. Boldness and playfulness respond to the brief; restraint is equally valid. The default deliverable is editable design plus evidence-based critique, with Figma as the preferred editing destination.
+
+Version 1 focuses on posters. The installation name remains `aoe-print`. Editorial and production notes are supporting material, not evidence of tested publication or packaging capabilities.
+
+## Choose the working mode
+
+- **Create:** resolve the brief, offer three concepts unless the direction is chosen or delegated, then build and inspect.
+- **Critique:** inspect the supplied design, identify up to three consequential issues, and explain targeted changes. Do not redesign without authorization.
+- **Refine:** preserve the selected concept and accepted decisions; change the requested layer or relationship, then compare the render. Do not restart the entire brief for a font or margin correction.
 
 ## Establish the job
 
@@ -18,9 +28,9 @@ Never infer physical dimensions or a printing process from a web preview's pixel
 ## Read only what the task needs
 
 - Type selection, hierarchy, line breaks, spacing, or typographic critique: [typography.md](references/typography.md). Compare the three [typography studies](references/typography-studies.md) when selecting a reading structure.
-- Posters, flyers, covers, or a coordinated campaign: [composition.md](references/composition.md).
+- Posters, flyers, covers, or a coordinated campaign: [composition.md](references/composition.md). For type/image relationships, consult the three [composition studies](references/composition-studies.md).
 - Illustration character, grain, paper texture, or ink treatments: [illustration-and-surface.md](references/illustration-and-surface.md).
-- Multi-page work, grids, sequencing, or editorial typography: [editorial.md](references/editorial.md).
+- Multi-page work requested beyond the poster focus: [editorial.md](references/editorial.md) is preliminary guidance; agree on the expanded scope before treating it as a validated capability.
 - Visual references from AOE: [aoe-observations.md](references/aoe-observations.md). These are four inspected examples, not a complete analysis of the collection.
 - Dimensions, bleed, color, images, export, or handoff: [production.md](references/production.md).
 - New design briefs and concept selection: [concepts.md](references/concepts.md).
@@ -34,11 +44,11 @@ When a prompt specifies `object-led`, read [object-led.md](references/object-led
 ## Design workflow
 
 1. Write a one-sentence communication objective. Separate mandatory information from expressive material. Preserve exact dates, names, prices, and supplied language; do not invent event details to fill space.
-2. Choose the organizing relationship: for example, text over image, image-led field with quiet metadata, dense information grid, or a repeated system with a variable visual layer. Explain why it fits this job. Avoid treating these as an exhaustive menu.
+2. Establish a specific creative vision: the intended experience and the central visual relationship that communicates it. Use it to guide type, imagery, color, surface, and space rather than assembling independently attractive parts. Choose the organizing relationship: for example, text over image, image-led field with quiet metadata, dense information grid, or a repeated system with a variable visual layer. Explain why it fits this job. Avoid treating these as an exhaustive menu.
 3. For a new unresolved brief, present three short, genuinely distinct concepts using concepts.md, recommend one with a reason, then let the designer select before building. Color or font swaps are not distinct concepts. If a direction is already chosen, or the user explicitly delegates selection, develop it directly. Do not restart concept selection for a critique or a narrow revision.
 4. Specify the attention order before rendering: dominant element, title, supporting copy, and metadata. Assign relative scale, weight, occupied area, and spacing to each role; “small supporting text” alone is not a sufficient rendering instruction. Use actual copy early. Read typography.md and the hierarchy checks in composition.md and, when using a reference, preserve its relevant scale relationships rather than merely its objects or palette.
 5. Work at the intended physical proportion. Follow figma-handoff.md for editable delivery. Verify the available tools before promising native Figma layers. Keep important text as real typeset text; generate imagery separately from exact copy. A flattened image in a Figma frame is not an editable design.
-6. Inspect the artifact at thumbnail scale, intended reading scale, and detail scale. Compare the actual attention order with the intended one: supporting text must not become another headline unless the brief deliberately requires it. Correct hierarchy failures before presenting the result as successful; verify supporting text remains readable at its intended scale. Follow the specific route's checks.
+6. Inspect the artifact at thumbnail scale, intended reading scale, and detail scale. Compare the actual attention order with the intended one: supporting text must not become another headline unless the brief deliberately requires it. Correct hierarchy failures before presenting the result as successful; verify supporting text remains readable at its intended scale. For posters, use the review in composition.md before presenting; follow the other specific route's checks when relevant.
 
 ## Visual evidence and originality
 

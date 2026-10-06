@@ -1,6 +1,8 @@
-# AOE Skills
+# AOE Posters v1
 
-Design skills authored by Art on Earth. The first package is **AOE Print**: composition, editorial systems, visual critique, and print handoff for designers using AI. New briefs begin with three short concepts before a selected direction is developed. Figma is the preferred editing destination; native delivery depends on verified writing tools.
+A poster design skill for designers using AI, authored by Art on Earth. Create a direction, critique an existing poster, or refine selected typography and composition. The installation name stays **aoe-print**.
+
+The skill asks what should attract, identify, explain, and enable action, then makes those roles visible. It includes expressive type manipulation, image art direction, restrained surface treatments, and editable handoff guidance. It does not impose one house style.
 
 ## Install
 
@@ -8,20 +10,29 @@ Design skills authored by Art on Earth. The first package is **AOE Print**: comp
 npx skills add https://github.com/Art-On-Earth/s --skill aoe-print
 ```
 
-Choose your supported agent when prompted. Install the full skill directory so its reference files remain available.
+Install the complete skill directory, including references. The command requires Node.js and a compatible skills installer; installation across every supported agent has not been tested in this release.
 
-Example: “Use the aoe-print skill to develop an A3 exhibition poster. Here is the exact copy, audience, and available imagery.”
+## Use it
 
-## What's included
+- **Create:** “Use aoe-print. Make a poster for [event]. Here is the exact copy, audience, size, and imagery. Give me three short concepts first.”
+- **Critique:** “Use aoe-print to critique this poster. Prioritize the three changes that would most improve communication.”
+- **Refine:** “Use aoe-print. Keep the concept and illustration; explore taller title proportions and improve supporting-text hierarchy.”
 
-- A concise [skill entrypoint](skills/aoe-print/SKILL.md).
-- Focused typography, composition, editorial, concept-selection, illustration, grain, and editable-delivery guidance.
-- Three additional typography studies and documented designer feedback from Open Draft and After Hours pilots.
-- Two provisional user-supplied reference studies: object-led and verbal-visual, with attribution still unresolved.
-- Four attributed observations from graphics inspected in AOE's Print collection.
-- An evidence policy separating visible facts, creator statements, interpretation, and technical requirements.
-- [Evaluation briefs](evaluations/print.md) for comparisons with and without the skill.
+If you want the agent to choose and continue, explicitly delegate the concept choice. No special slash command is required by this package; invocation depends on the host agent.
 
-## Status
+## Inside
 
-Initial version. The visual sample is limited, human editorial review is pending, and comparative model evaluations have not yet run. This is original guidance and attributed analysis, not a trained model or a claim of perfect results. External images, fonts, and artwork are not included. Referenced creators and publishers retain their rights; no endorsement is implied.
+- [Skill entrypoint](skills/aoe-print/SKILL.md): modes, workflow, and reference routing.
+- [Typography](skills/aoe-print/references/typography.md) and [composition](skills/aoe-print/references/composition.md): roles, proportion, spacing, color, and visual review.
+- [Fonts In Use research](skills/aoe-print/references/fonts-in-use.md): six contextual observations, attributed and separated from interpretation.
+- [Illustration and surface](skills/aoe-print/references/illustration-and-surface.md): asset proportions, grain, and type/material relationships.
+- [Editable handoff](skills/aoe-print/references/figma-handoff.md): separate text, imagery, and layout; verify destination support.
+- [Release examples](examples/README.md) and [validation record](evaluations/v1-validation.md).
+
+## Scope and evidence
+
+**Version 1.0.0 is an initial poster-focused release.** It incorporates designer feedback from guided pilots and two additional local concept checks. It has not passed independent blind comparisons, multi-model testing, or broad designer trials. Typography remains an area for iteration; Common Ground's alternatives were not fully accepted.
+
+Figma is the preferred editing destination, but this package does not provide a Figma-writing integration. Example SVGs retain live text; native Figma import/editability and physical print proofs remain unverified. No output is certified press-ready. Editorial and production references support judgment but are not independently tested product capabilities.
+
+AOE guidance and reference analysis are not model training. External reference artwork and commercial fonts are not bundled. The two original release examples embed open-source fonts with their license notices. No endorsement by referenced designers, foundries, or publishers is implied.

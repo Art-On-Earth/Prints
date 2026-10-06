@@ -12,6 +12,14 @@ Choose an image-making method capable of the proposed treatment. Do not default 
 
 Inspect the subjects as a composition, not as an asset inventory. Consider interaction, overlap, shared direction, cropping, and purposeful unequal scale. Four equal corner objects can resemble a decorated frame rather than a gathering. Symmetry is valid when it serves the idea; do not impose chaos as a cure.
 
+## Design the asset for its place in the composition
+
+Establish the final layout before generating illustration: poster proportions, image coverage, crop boundaries, text zones, and the intended interaction between type and image. Specify those constraints in the asset brief. Do not default to a square illustration and then organize a portrait poster into header/image/footer rectangles to accommodate it. This failed in the After Hours revision.
+
+Choose the asset geometry from its role. A full-field illustration should use the intended poster proportions and deliberately reserve quiet areas for separately typeset copy. A placed subject should have transparent or otherwise compositable surroundings when the tools support it, rather than bringing an unwanted rectangular background. An intentionally framed image can retain a rectangle when that frame serves the concept. No single aspect ratio is always correct.
+
+Request enough surrounding composition for the planned bleed or crop without losing important silhouettes. Inspect the asset in the actual poster before acceptance. If its shape or background forces a conflicting layout, revise or regenerate the asset to fit the vision; do not mask the mismatch with panels, arbitrary cropping, or cosmetic fades. Preserve editable typography independently of generated imagery.
+
 ## Grain as a controlled material treatment
 
 Grain can connect otherwise clinical surfaces, soften a flat fill, or suggest an image-making character. It is an available art-direction tool, not a mandatory AOE signature or evidence of physical printing. Distinguish paper variation, image grain, ink dropout, and halftone: they affect different parts of the work and should not be treated as interchangeable noise.
