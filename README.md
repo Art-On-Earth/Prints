@@ -10,7 +10,7 @@ The skill asks what should attract, identify, explain, and enable action, then m
 npx skills add https://github.com/Art-On-Earth/s --skill aoe-print
 ```
 
-Install the complete skill directory, including references. The command requires Node.js and a compatible skills installer; installation across every supported agent has not been tested in this release.
+Choose your agent when prompted. Codex, Claude Code, Cursor, and Gemini CLI installation targets have been smoke-tested with skills 1.7.0 (requires Node.js 22.20+). All 15 skill files, including references, were copied intact. This verifies installation, not design performance inside each agent. See [compatibility and maintenance](docs/compatibility.md).
 
 ## Use it
 
@@ -31,7 +31,7 @@ If you want the agent to choose and continue, explicitly delegate the concept ch
 
 ## Scope and evidence
 
-**Version 1.0.0 is an initial poster-focused release.** It incorporates designer feedback from guided pilots and two additional local concept checks. It has not passed independent blind comparisons, multi-model testing, or broad designer trials. Typography remains an area for iteration; Common Ground's alternatives were not fully accepted.
+**Version 1.0.1 is an initial poster-focused release with agent distribution support.** It incorporates designer feedback from guided pilots and two additional local concept checks. It has not passed independent blind comparisons, multi-model testing, or broad designer trials. Typography remains an area for iteration; Common Ground's alternatives were not fully accepted.
 
 Figma is the preferred editing destination, but this package does not provide a Figma-writing integration. Example SVGs retain live text; native Figma import/editability and physical print proofs remain unverified. No output is certified press-ready. Editorial and production references support judgment but are not independently tested product capabilities.
 
